@@ -54,7 +54,7 @@ textarea:focus{
     outline: none;
     box-shadow: 0 0 8px #eeeeee;
 }
-button{
+.butt{
     display: inline-block;
     padding: 12px 24px;
     background-color: #fb811e;
@@ -157,6 +157,7 @@ button:hover{
         padding: 10px 20px; /* Réduisez l'espacement des boutons */
     }
 }
+
 
 
 
